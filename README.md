@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nidhi , a Software Engineer with 3+ years of experience in Full Stack
 - 👀 I’m interested and working on artificial Intelligence and Machine Learning , Data Science/Data Engineer and Freelancing work as a Full stack java developer
-- 🌱 I’m have done a Post Graduation Diploma in AI and ML from Indian Institute of Information Technology,Lucknow in 2022 and BscIT from mumbai university in 2019
+- 🌱 I completed Post Graduation Diploma in AI and ML from Indian Institute of Information Technology,Lucknow in 2022 and BscIT from mumbai university in 2019
 - 💞️ I’m looking to collaborate on Software Development , Freelancing work and AI/ML domain
 - 📫 How to reach me 26nidhipandey@gmail.com
 
