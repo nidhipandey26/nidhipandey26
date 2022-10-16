@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nidhi , a Software Engineer with 2.8 years of experience in java development
-- 👀 I’m interested and working on artificial Intelligence and Machine Learning
-- 🌱 I’m currently Pursuing Post Graduation Diploma in AI and ML from Indian Institute of Information Technology,Lucknow 
-- 💞️ I’m looking to collaborate on Software Development and AI
+- 👋 Hi, I’m Nidhi , a Software Engineer with 3+ years of experience in Full Stack
+- 👀 I’m interested and working on artificial Intelligence and Machine Learning , Data Scinnce /Data Engineer and Freelancing work as a Full stack java developer
+- 🌱 I’m have done a Post Graduation Diploma in AI and ML from Indian Institute of Information Technology,Lucknow in 2022 and BscIT from mumbai university in 2019
+- 💞️ I’m looking to collaborate on Software Development , Freelancing work and AI/ML domain
 - 📫 How to reach me 26nidhipandey@gmail.com
 
 <!---
